@@ -8,4 +8,8 @@ void fun1(){
 }
 void fin2(){
 }
+
+public void Test3(){
+System.out.println("Task COmpleted);
+}
 }
