@@ -15,6 +15,10 @@ System.out.println("Task COmpleted);
 }
 public void test2(){
 System.out.println("50% task completed");
+  System.out.println("50% task completed");
+  System.out.println("50% task completed");
+  System.out.println("50% task completed");
+  System.out.println("50% task completed");
 
 }
 }
